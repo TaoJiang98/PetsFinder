@@ -1,6 +1,5 @@
 ## Install Package
-`npm install react-router-dom`\
-`npm install -g nodemon`
+`npm install`
 
 ## Run Backend (localhost:8081)
 1. `cd server`
